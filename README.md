@@ -184,3 +184,7 @@ http://docs.recurly.com/api/transactions
 
 
 	recurly.transactions.refund(id, callback, amount) 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/valorkin/node-recurly/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
